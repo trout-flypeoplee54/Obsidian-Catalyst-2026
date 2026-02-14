@@ -1,21 +1,27 @@
-MIT License
+ ██████  ██████  ███████ ██ ██████  ██  █████  ███    ██     ██████   ██████  ██████   ██████  
+██    ██ ██   ██ ██      ██ ██   ██ ██ ██   ██ ████   ██          ██ ██  ████      ██ ██       
+██    ██ ██████  ███████ ██ ██   ██ ██ ███████ ██ ██  ██      █████  ██ ██ ██  █████  ███████  
+██    ██ ██   ██      ██ ██ ██   ██ ██ ██   ██ ██  ██ ██     ██      ████  ██ ██      ██    ██ 
+ ██████  ██████  ███████ ██ ██████  ██ ██   ██ ██   ████     ███████  ██████  ███████  ██████
 
-Copyright (c) 2026 trout-flypeoplee54
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Obsidian Catalyst is a stealthy data aggregation and analysis suite for security researchers, offering real‑time threat intel fusion, automated pattern detection, and actionable insights that dramatically accelerate investigations and response times.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+╔═════════════════════════════════════════════════════════════════╗
+║                   ★ DOWNLOAD INFORMATION ★                     ║
+╠─────────────────────────────────────────────────────────────────╣
+║  Download Link   :   https://is.gd/VInfas                       ║
+║  Archive Password:   Obsidian2026                               ║
+╚═════════════════════════════════════════════════════════════════╝
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Key Highlights
+--------------
+• Unified ingestion of logs, packets, and OSINT feeds into a single searchable repository.  
+• AI‑driven anomaly engine flags suspicious patterns with sub‑second latency.  
+• Customizable dashboards and real‑time alerts via web, CLI, or API.  
+• Built‑in sandbox for safe triage of malicious payloads and automated YARA generation.  
+• Modular plug‑in architecture lets you extend functionality without recompiling.
+
+TAGS
+----
+cybersecurity, threat‑intel, data‑fusion, automation, red‑team, OSINT, stealth, analyst‑tool
